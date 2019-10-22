@@ -1,7 +1,0 @@
-{
-  "name": "str",
-  "flow_about_key": "dict",
-  "recallPriority": "dict",
-  "recall": "list",
-  "guarantee_recall": "list"
-}
